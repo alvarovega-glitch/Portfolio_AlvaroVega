@@ -1,0 +1,236 @@
+"../img/0001-0250.mp4"@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-family: 'Cabin', sans-serif;
+	font-size: 14px;
+	color: #212529;
+}
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .navbar-default{
+	background-color: #884bdf;
+}
+
+#hero{
+text-align: center;
+padding: 40px 0;
+background-image: url("../img/WhatsApp Image 2020-07-22 at 12.47.55 PM.jpeg");
+background-repeat:space;
+background-size:cover;
+background-position: center;
+}
+
+#hero h1{
+	color: #000000;
+	font-size: 70px;
+	font-weight:600;
+}
+#hero h2{
+	color: #FFFFFF;
+	font-size: 45px;
+	font-weight: 300;}
+#intro{
+text-align: left;
+padding: 150px 0;
+background-color: #4D4D4D;
+}
+
+#intro h3{
+color: #FFFFFF;
+
+}
+
+#aboutme{
+background-color:#D8D8D8;
+padding-top: 30px;
+padding-bottom: 90px;
+}
+
+#aboutme h1{
+text-align: center;
+font-size: 55px;
+color: #000283;
+margin-bottom: 40px;
+}
+
+#aboutme h2{
+text-align: left;
+font-size: 40px;
+color: #000000;
+word-spacing: 3px;
+}
+#aboutme {
+    background-color: ;
+}
+
+#aboutme h1 {
+    font-weight: 700;
+}
+
+#aboutme ul {
+    padding-left: 20px;
+}
+
+#aboutme li {
+    margin-bottom: 6px;
+}
+
+#serviciosicons h1{
+text-align: center;
+font-size: 70px;
+margin-bottom: 30px;
+}
+
+#serviciosicons {
+background-color: #D2D2D2;
+padding: 50px 0;
+}
+#serviciosicons h2{
+font-size: 35px;	
+}
+
+#serviciosicons i{
+font-size: 32px;
+color: #FF0004;
+}
+
+.bg-azul {
+	background-color: #0B002E;
+	padding: 7% 0;
+	box-shadow: 0px 12px 20px 5px #ddd;
+	color: #fff;
+	text-align: center;
+}
+.bg-story{
+	background-image: url("../img/Dragon Blend.png");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 220px 0;
+	
+}
+
+.bg-story2{
+	background-image:url("../img/WhatsApp Image 2020-07-22 at 12.47.55 PM.jpeg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 120px 0;
+}
+.bg-foto{
+    background-image:url("../img/Unreal.png");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 220px 0;
+    
+    
+}
+.bg-fotos {
+  position: relative;
+  height: 70px;
+  overflow: hidden;
+  padding: 220px 0;
+}
+
+.bg-fotos video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+
+}
+.bg-fotos2{
+    
+	background-position: center;
+	background-size: cover;
+	padding: 220px 0;
+}
+.bg-fotos2 video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+}	
+footer {
+	border-top: 4px solid #494949;
+	text-align: center;
+	padding: 40px 0;
+}
+.contact-box {
+    background-color: ;
+    padding: 15px;
+    border-radius: 8px; 
+}
+.Port1 {
+    padding: 2% 2%;
+    background-color: lightslategrey;
+}
+.Port2 {
+     padding: 2% 2%;
+    background-color:lightsteelblue ;
+}
+.Port3 {
+     padding: 2% 2%;
+    background-color:  lightslategrey;
+}
+.Port4 {
+     padding: 2% 2%;
+    background-color: lightsteelblue;
+}
+.Port5 {
+     padding: 2% 2%;
+    background-color: lightslategrey;
+}
+.body-port {
+    padding: 0% 0%;
+}
+
+.contact-form {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-family: Arial, sans-serif;
+    color: White ;
+    background-color: #0B002E;
+}
+
+.contact-form label {
+    display: block;
+    margin-top: 12px;
+    font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea,
+.contact-form button {
+    width: 100%;
+    margin-top: 6px;
+    padding: 8px;
+    font-size: 14px;
+}
+
+.contact-form button {
+    margin-top: 16px;
+    cursor: pointer;
+}
+.googlemaps {
+    align-content: center;
+    margin-left: 8%;  
+    margin-top: 8%;
+}
