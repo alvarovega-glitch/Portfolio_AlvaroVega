@@ -132,10 +132,11 @@ color: #FF0004;
     
 }
 .bg-fotos {
-  position: relative;
-  height: 70px;
-  overflow: hidden;
-  padding: 220px 0;
+	background-image: url("file:///F:/ModelosMios/BlackHoleImages/0123.png");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 200px 0;
 }
 
 .bg-fotos video {
@@ -185,7 +186,7 @@ footer {
 }
 .Port3 {
      padding: 2% 2%;
-    background-color:  lightslategrey;
+    background-color: lightslategrey;
 }
 .Port4 {
      padding: 2% 2%;
